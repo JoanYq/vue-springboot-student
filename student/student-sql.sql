@@ -11,7 +11,7 @@
  Target Server Version : 50726
  File Encoding         : 65001
 
- Date: 14/02/2022 14:21:32
+ Date: 14/02/2022 14:21:33
 */
 CREATE DATABASE `student` DEFAULT CHARACTER SET utf8;
 

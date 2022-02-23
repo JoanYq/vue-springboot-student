@@ -13,9 +13,11 @@
 
  Date: 14/02/2022 14:21:32
 */
+CREATE DATABASE `student` DEFAULT CHARACTER SET utf8;
 
-SET NAMES utf8mb4;
-SET FOREIGN_KEY_CHECKS = 0;
+USE `student`;
+
+SET FOREIGN_KEY_CHECKS=0;
 
 -- ----------------------------
 -- Table structure for students
